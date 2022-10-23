@@ -3,5 +3,10 @@
     "package" : "tableone",
     "url" : "https://github.com/bristol-vaccine-centre/tableone",
     "branch" : "*release"
+  },
+  {
+    "package" : "growthrates",
+    "url" : "https://github.com/bristol-vaccine-centre/growthrates",
+    "branch" : "*release"
   }
 ]

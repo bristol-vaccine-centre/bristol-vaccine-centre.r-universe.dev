@@ -7,6 +7,7 @@
 rOpenSci universe development packages
 
 * tableone - Descriptive Tables for Observational or Interventional Studies
+* growthrates - Estimate Incidence, Proportions and Exponential Growth Rates
 
 https://github.com/r-universe/bristol-vaccine-centre/actions
 
