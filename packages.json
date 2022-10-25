@@ -8,5 +8,9 @@
     "package" : "growthrates",
     "url" : "https://github.com/bristol-vaccine-centre/growthrates",
     "branch" : "*release"
+  },
+    {
+    "package" : "modelfitter",
+    "url" : "https://github.com/bristol-vaccine-centre/modelfitter",
   }
 ]
