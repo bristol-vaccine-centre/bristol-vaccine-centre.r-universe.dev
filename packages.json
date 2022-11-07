@@ -9,8 +9,12 @@
     "url" : "https://github.com/bristol-vaccine-centre/growthrates",
     "branch" : "*release"
   },
-    {
+  {
     "package" : "modelfitter",
     "url" : "https://github.com/bristol-vaccine-centre/modelfitter",
+  },
+  {
+    "package" : "avoncap",
+    "url" : "https://github.com/bristol-vaccine-centre/avoncap",
   }
 ]
