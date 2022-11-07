@@ -11,10 +11,10 @@
   },
   {
     "package" : "modelfitter",
-    "url" : "https://github.com/bristol-vaccine-centre/modelfitter",
+    "url" : "https://github.com/bristol-vaccine-centre/modelfitter"
   },
   {
     "package" : "avoncap",
-    "url" : "https://github.com/bristol-vaccine-centre/avoncap",
+    "url" : "https://github.com/bristol-vaccine-centre/avoncap"
   }
 ]
