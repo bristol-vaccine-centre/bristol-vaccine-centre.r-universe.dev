@@ -10,6 +10,11 @@
     "branch" : "*release"
   },
   {
+    "package" : "rsurvstat",
+    "url" : "https://github.com/bristol-vaccine-centre/rsurvstat",
+    "branch" : "*release"
+  },
+  {
     "package" : "modelfitter",
     "url" : "https://github.com/bristol-vaccine-centre/modelfitter"
   },
