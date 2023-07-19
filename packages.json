@@ -21,5 +21,9 @@
   {
     "package" : "avoncap",
     "url" : "https://github.com/bristol-vaccine-centre/avoncap"
+  },
+  {
+    "package" : "interfacer",
+    "url" : "https://github.com/bristol-vaccine-centre/interfacer"
   }
 ]
