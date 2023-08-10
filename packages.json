@@ -25,5 +25,9 @@
   {
     "package" : "interfacer",
     "url" : "https://github.com/bristol-vaccine-centre/interfacer"
+  },
+  {
+    "package" : "testerror",
+    "url" : "https://github.com/bristol-vaccine-centre/testerror"
   }
 ]
