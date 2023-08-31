@@ -29,5 +29,9 @@
   {
     "package" : "testerror",
     "url" : "https://github.com/bristol-vaccine-centre/testerror"
+  },
+  {
+    "package" : "pkgutils",
+    "url" : "https://github.com/bristol-vaccine-centre/pkgutils"
   }
 ]
