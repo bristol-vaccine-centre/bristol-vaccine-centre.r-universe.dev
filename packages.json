@@ -15,16 +15,17 @@
     "branch" : "*release"
   },
   {
+    "package" : "interfacer",
+    "url" : "https://github.com/bristol-vaccine-centre/interfacer",
+    "branch" : "*release"
+  },
+  {
     "package" : "modelfitter",
     "url" : "https://github.com/bristol-vaccine-centre/modelfitter"
   },
   {
     "package" : "avoncap",
     "url" : "https://github.com/bristol-vaccine-centre/avoncap"
-  },
-  {
-    "package" : "interfacer",
-    "url" : "https://github.com/bristol-vaccine-centre/interfacer"
   },
   {
     "package" : "testerror",
