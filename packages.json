@@ -20,19 +20,21 @@
     "branch" : "*release"
   },
   {
+    "package" : "pkgutils",
+    "url" : "https://github.com/bristol-vaccine-centre/pkgutils",
+    "branch" : "*release"
+  },
+  {
+    "package" : "testerror",
+    "url" : "https://github.com/bristol-vaccine-centre/testerror",
+    "branch" : "*release"
+  },
+  {
     "package" : "modelfitter",
     "url" : "https://github.com/bristol-vaccine-centre/modelfitter"
   },
   {
     "package" : "avoncap",
     "url" : "https://github.com/bristol-vaccine-centre/avoncap"
-  },
-  {
-    "package" : "testerror",
-    "url" : "https://github.com/bristol-vaccine-centre/testerror"
-  },
-  {
-    "package" : "pkgutils",
-    "url" : "https://github.com/bristol-vaccine-centre/pkgutils"
   }
 ]
