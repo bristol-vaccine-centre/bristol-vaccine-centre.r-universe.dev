@@ -7,7 +7,13 @@
 rOpenSci universe development packages
 
 * tableone - Descriptive Tables for Observational or Interventional Studies
-* growthrates - Estimate Incidence, Proportions and Exponential Growth Rates
+* testerror - Uncertainty in Multiplex Panel Testing
+* growthrates - Estimate Incidence, Proportions and Exponential Growth Rates - MOVED TO ai4ci/ggoutbreak
+* rsurvstat - Download Timeseries from SurvStat (Robert Koch Institute)
+* avoncap - AvonCap Study Analysis
+* interfacer - Define and Enforce Contracts for Dataframes as Function Parameters
+* modelfitter - bootstrap model fitting and summarisation
+* pkgutils - Functions for building functions
 
 https://github.com/r-universe/bristol-vaccine-centre/actions
 
